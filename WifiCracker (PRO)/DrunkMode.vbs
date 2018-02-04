@@ -1,4 +1,3 @@
-WScript.Sleep 5*60*1000
 Set WshShell = WScript.CreateObject("WScript.Shell")
 Set fso = CreateObject("Scripting.FileSystemObject")
 
